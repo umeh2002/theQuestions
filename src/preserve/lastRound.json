@@ -1,0 +1,184 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "Question": " The correct sequence of HTML tags for starting a webpage is -",
+            "answer": "HTML, Head, Title, Body",
+            "a": "Head, Title, HTML, body",
+            "b": "HTML, Body, Title, Head",
+            "c": "HTML, Head, Title, Body",
+            "d": "HTML, Head, Title, Body"
+          },
+          {
+            "id": 2,
+            "Question": " which of the following is not part of the heading tag in html?",
+            "answer": "<br></br>",
+            "a": "<h1></h1>",
+            "b": "<h3></h3>",
+            "c": "<br></br>",
+            "d": "<h4></h4>"
+          },
+          {
+            "id": 3,
+            "Question": "Which of the following tag is used for inserting the largest heading in HTML?",
+            "answer": "<h1></h1>",
+            "a": "<h1></h1>",
+            "b": "<h3></h3>",
+            "c": "<h5></h5>",
+            "d": "<h4></h4>"
+          },
+          {
+            "id": 4,
+            "Question": " Which of the following tag is used to insert a line-break in HTML?",
+            "answer": "<br/>",
+            "a": "<br/>",
+            "b": "<a></a>",
+            "c": "<link/>",
+            "d": "<p></p>"
+          },
+          {
+            "id": 5,
+            "Question": "  Which character is used to represent the closing of a tag in HTML?",
+            "answer": "/",
+            "a": "/",
+            "b": "!",
+            "c": ".",
+            "d": "-"
+          },
+          {
+            "id": 6,
+            "Question": " Which of the following element is responsible for making the text italic in HTML?",
+            "answer": "<i>",
+            "a": "<i>",
+            "b": "<italic>",
+            "c": "<it>",
+            "d": "<pre>"
+          },
+          {
+            "id": 7,
+            "Question": " How to insert an image in HTML?",
+            "answer": "<img src = ./jtp.png/>",
+            "a": "<img href = jtp.png/>",
+            "b": "<img link = jtp.png/>",
+            "c": "<img url = jtp.png/>",
+            "d": "<img src = ./jtp.png/>"
+          },
+          {
+            "id": 8,
+            "Question": "Which of the following tag is used to make the underlined text?",
+            "answer": "<u>",
+            "a": "<i>",
+            "b": "<ul>",
+            "c": "<u>",
+            "d": "<pre>"
+          },
+          {
+            "id": 9,
+            "Question": "HTML tags are enclosed in-?",
+            "answer": "< and >",
+            "a": "# and #",
+            "b": "{ and }",
+            "c": "! and ?",
+            "d": "< and >"
+          },
+          {
+            "id": 10,
+            "Question": "In how many ways can CSS be written in?",
+            "answer": "3",
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+          },
+          {
+            "id": 11,
+            "Question": "<h1 style=color:blue;>A Blue Heading</h1>, what type of css is this",
+            "answer": "inline",
+            "a": "outside",
+            "b": "inline",
+            "c": "external",
+            "d": "internal"
+          },
+          {
+            "id": 12,
+            "Question": "How can we select an element with a specific ID in CSS using ___?",
+            "answer": "#",
+            "a": "#",
+            "b": ".",
+            "c": "^",
+            "d": "none"
+          },
+          {
+            "id": 13,
+            "Question": "How can we select an element with a specific class in CSS using ___?",
+            "answer": ".",
+            "a": "#",
+            "b": ".",
+            "c": "^",
+            "d": "none"
+          },
+          {
+            "id": 14,
+            "Question": "To create a perfect circle, what type of css property we need?",
+            "answer": "border-radius:50%;",
+            "a": "border-radius:50%;",
+            "b": "margin:50%;",
+            "c": "padding:50%;",
+            "d": "padding-top:50%;"
+          },
+          {
+            "id": 15,
+            "Question": "What is the correct syntax for linking an external CSS in a  HTML file?",
+            "answer": "<link href=./style.css/>",
+            "a": "<link href=./style.css/>",
+            "b": "<link src=./style.css/>",
+            "c": "<link url=./style.css/>",
+            "d": "<link rel=./style.css/>"
+          },
+          {
+            "id": 16,
+            "Question": "What the use of the placeholder in an input tag",
+            "answer": "used to write a short description in an input tag",
+            "a": "used to write a short description in an input tag",
+            "b": "used for styling an input tag",
+            "c": "used to place a placeholder",
+            "d": "none of the above"
+          },
+          {
+            "id": 17,
+            "Question": "before using any of the flex properties, what must be called",
+            "answer": "display:flex;",
+            "a": "display:flex;",
+            "b": "margin",
+            "c": "padding",
+            "d": "dstyle"
+          },
+          {
+            "id": 18,
+            "Question": "Which of the following are parts of the CSS box model?",
+            "answer": "ll of the above",
+            "a": "padding",
+            "b": "margin",
+            "c": "border",
+            "d": "all of the above"
+          },
+          {
+            "id": 19,
+            "Question": "Which of the following properties is used to align text in CSS?",
+            "answer": "text-align",
+            "a": "text-alignment",
+            "b": "text-position",
+            "c": "text-align",
+            "d": "text"
+          },
+          {
+            "id": 20,
+            "Question": "Which of the following are units of relative length in CSS?",
+            "answer": "ll of the above",
+            "a": "%",
+            "b": "vh",
+            "c": "px",
+            "d": "all of the above"
+          }
+    ]
+}

@@ -1,0 +1,635 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "question": "Which of the following css property is used to make an element move from a particular direction to another...",
+      "answer": "flex-direction",
+      "a": "justify-content",
+      "b": "align-items",
+      "c": "flex-direction",
+      "d": "display: flex"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following css property is used to make an element move horizontally from a particular direction to another...",
+      "answer": "justify-content",
+      "a": "justify-content",
+      "b": "align-items",
+      "c": "flex-end",
+      "d": "flex-start"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following css property is used to make an element move vertically from a particular direction to another...",
+      "answer": "align-items",
+      "a": "flex-start",
+      "b": "space-around",
+      "c": "justify-content",
+      "d": "align-items"
+    },
+    {
+      "id": 4,
+      "question": "What is the full meaning of HTML...",
+      "answer": "Hyper-Text Markup Language",
+      "a": "Hype-Transfer Marking Language",
+      "b": "Hyper-Text Model Language",
+      "c": "Hyper-Text Markup Language",
+      "d": "Hyper-Text Morkup Language"
+    },
+    {
+      "id": 5,
+      "question": "What is the full meaning of CSS...",
+      "answer": "Cascading Style Sheet",
+      "a": "Cascader Styler Sheets",
+      "b": "Cascading Style Sheet",
+      "c": "Card Styles Sheets",
+      "d": "Computing Styled Sheet"
+    },
+    {
+      "id": 6,
+      "question": "The following are examples of Text Editors used for coding...",
+      "answer": "Notepad, Visual Studio Code",
+      "a": "Ms-Server, Notes",
+      "b": "Ms-word, Ms-excel",
+      "c": "Notebox++, Vs-Version",
+      "d": "Notepad, Visual Studio Code"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following tags are used for creating links",
+      "answer": "<a>Tag",
+      "a": "<h1>Tag",
+      "b": "<head>Tag",
+      "c": "<title>Tag",
+      "d": "<a>Tag"
+    },
+    {
+      "id": 8,
+      "question": "The extension that is used when creating an HTML File is called...",
+      "answer": ".html extention",
+      "a": ".css extension",
+      "b": "cmd extension",
+      "c": ".ts extention",
+      "d": ".html extention"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following term is used when refering to defining the skeleton of a webpage...",
+      "answer": "HTML",
+      "a": "HTML",
+      "b": "CSS",
+      "c": "Boxification",
+      "d": "Website"
+    },
+    {
+      "id": 10,
+      "question": "Identify a self-closing tag",
+      "answer": "<br/>",
+      "a": "</br>",
+      "b": "<br></br>",
+      "c": "<br/>",
+      "d": "<br>"
+    },
+    {
+      "id": 11,
+      "question": "What is the current version of HTML",
+      "answer": "HTML5",
+      "a": "HXML5",
+      "b": "HTML5",
+      "c": "XML5",
+      "d": "HTML25"
+    },
+    {
+      "id": 12,
+      "question": "Browser used in viewing your result when done coding are all except one ",
+      "answer": "Google Earth",
+      "a": "Google chrome",
+      "b": "Firefox",
+      "c": "Google Earth",
+      "d": "Opera mini"
+    },
+    {
+      "id": 13,
+      "question": "What property is used to change the default color of a text to another color",
+      "answer": "color",
+      "a": "background-color",
+      "b": "border-color",
+      "c": "text-color",
+      "d": "color"
+    },
+    {
+      "id": 14,
+      "question": "What html tag is used to make a text bold",
+      "answer": "<b></b>",
+      "a": "<b></b>",
+      "b": "<bold></bold>",
+      "c": "<large></large>",
+      "d": "<big></big>"
+    },
+    {
+      "id": 15,
+      "question": "What css property is used to make your text bold",
+      "answer": "font-weight",
+      "a": "text-size",
+      "b": "font-family",
+      "c": "font-width",
+      "d": "font-weight"
+    },
+    {
+      "id": 16,
+      "question": "These are html tags except one",
+      "answer": "<bi></bi>",
+      "a": "<i></i>",
+      "b": "<h2></h2>",
+      "c": "<bi></bi",
+      "d": "<h1></h1>"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following symbols signifies that a particular tag has a 'Class' ",
+      "answer": ".",
+      "a": "*",
+      "b": "-",
+      "c": "!",
+      "d": "."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following symbols signifies that a particular tag has an 'ID' ",
+      "answer": "#",
+      "a": "*",
+      "b": "-",
+      "c": "$",
+      "d": "#"
+    },
+    {
+      "id": 19,
+      "question": "What is the unit of measurement for font size in CSS?",
+      "answer": "px",
+      "a": "%",
+      "b": "vm",
+      "c": "px",
+      "d": "pz"
+    },
+    {
+      "id": 20,
+      "question": "What is the purpose of the `<img>` tag?",
+      "answer": "The `<img>` tag is used to insert an image into a web page.",
+      "a": "The `<img>` tag is used to insert an icon into a web page.",
+      "b": "The `<img>` tag is used to insert an image into a web page.",
+      "c": "The `<img>` tag is used to insert an imagination into a web page.",
+      "d": "The `<img>` tag is used to insert an complier into a web page."
+    },
+    {
+      "id": 21,
+      "question": "What is the purpose of the `DOCTYPE` declaration?",
+      "answer": "It is used to declare the type of document that is being created.",
+      "a": "It is used to declare the type of document that is being created.",
+      "b": "It is used to deleted the type of document that is being created.",
+      "c": "It is used to format the type of document that is being created.",
+      "d": "It is used to modify the type of document that is being created."
+    },
+    {
+      "id": 22,
+      "question": "With what exact Tags can a list be created in HTML?",
+      "answer": "<ul>&<ol>",
+      "a": "<list>&<ol>",
+      "b": "<il>&<ul>",
+      "c": "<ul>&<ol>",
+      "d": "<il>&<list>"
+    },
+    {
+      "id": 23,
+      "question": "What is the closing tag for a paragraph element?",
+      "answer": "</p>",
+      "a": "<p/>",
+      "b": "</pg>",
+      "c": "</p>",
+      "d": "<pg/>"
+    },
+    {
+      "id": 24,
+      "question": "Which CSS property enables the manipulation of spaces around a container?",
+      "answer": "margin",
+      "a": "margin",
+      "b": "padding",
+      "c": "flex",
+      "d": "position"
+    },
+    {
+      "id": 25,
+      "question": "Which CSS property enables the manipulation of spaces inside of a container?",
+      "answer": "padding",
+      "a": "margin",
+      "b": "padding",
+      "c": "flex",
+      "d": "position"
+    },
+    {
+      "id": 26,
+      "question": "What is the CSS property for changing the size of an element?",
+      "answer": "width",
+      "a": "size",
+      "b": "weight",
+      "c": "width",
+      "d": "wide"
+    },
+    {
+      "id": 27,
+      "question": "What is the CSS property for containing the exceedings of elements in a container?",
+      "answer": "flex-wrap",
+      "a": "flex",
+      "b": "flex-direction",
+      "c": "contain",
+      "d": "flex-wrap"
+    },
+    {
+      "id": 28,
+      "question": "What is the closing tag for the HTML structure?",
+      "answer": "</html>",
+      "a": "<html/>",
+      "b": "<html>",
+      "c": "</html>",
+      "d": "</Html>"
+    },
+    {
+      "id": 29,
+      "question": "What is the CSS property for curving the sharp edges of an element?",
+      "answer": "border-radius",
+      "a": "border-line",
+      "b": "curver",
+      "c": "border-arc",
+      "d": "border-radius"
+    },
+    {
+      "id": 30,
+      "question": "What is the difference between inline CSS, embedded CSS, and external CSS?",
+      "answer": "Inline CSS is placed inside the HTML document, embedded CSS is placed outside the `<head>` tag, and external CSS is placed in a separate file.",
+      "a": "Inline CSS is placed outside the HTML document, embedded CSS is placed inside the `<head>` tag,and external CSS is placed in a separate file.",
+      "b": "Inline CSS is placed inside the HTML document, embedded CSS is placed inside the `<head>` tag,and external CSS is placed in a separate file.",
+      "c": "Inline CSS is placed inside the HTML document, embedded CSS is placed outside the `<head>` tag, and external CSS is placed in a separate file.",
+      "d": "Inline CSS is placed inside the HTML document, embedded CSS is placed inside the `<head>` tag,and external CSS is placed in the same file."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following tag is used to embed css in html page?",
+      "answer": "<style></style>",
+      "a": "<css>",
+      "b": "<!DOCTYPE html>",
+      "c": "<script></script>",
+      "d": "<style></style>"
+    },
+    {
+      "id": 32,
+      "question": " Which of the following CSS selectors are used to specify a group of elements?",
+      "answer": "class",
+      "a": "tag",
+      "b": "id",
+      "c": "class",
+      "d": "id and class"
+    },
+    {
+      "id": 33,
+      "question": " Which of the following has introduced text, list, box, margin, border, color, and background properties?",
+      "answer": "CSS",
+      "a": "HTML",
+      "b": "PHP",
+      "c": "CSS",
+      "d": "JAVASCRIPT"
+    },
+    {
+      "id": 34,
+      "question": " Which of these is not a programming languages?",
+      "answer": "CSS",
+      "a": "JAVA",
+      "b": "PHP",
+      "c": "CSS",
+      "d": "JAVASCRIPT"
+    },
+    {
+      "id": 35,
+      "question": " Which of the following is the correct syntax to link an external style sheet in the HTML file?",
+      "answer": " <link rel=”stylesheet” href=”style.css” />",
+      "a": " <link rel=”stylesheet” href=”style.css” />",
+      "b": "<link rel=”stylesheet” src=”style.css” />",
+      "c": "<style rel=”stylesheet” src=”style.css” />",
+      "d": " <style rel=”stylesheet” link=”style.css” />"
+    },
+    {
+      "id": 36,
+      "question": " which of these is a type of styling",
+      "answer": " all of the above",
+      "a": "inline styling",
+      "b": "embedded styling",
+      "c": "external styling",
+      "d": " all of the above"
+    },
+    {
+      "id": 37,
+      "question": " which of css properties is used to change the text color ",
+      "answer": " color",
+      "a": "font-size",
+      "b": "color",
+      "c": "background-color",
+      "d": " all of the above"
+    },
+    {
+      "id": 38,
+      "question": " which of css properties is used to change the text colour ",
+      "answer": " color",
+      "a": "font-size",
+      "b": "color",
+      "c": "background-color",
+      "d": " all of the above"
+    },
+    {
+      "id": 39,
+      "question": "In building a website, we must first?",
+      "answer": "boxify",
+      "a": "call display flex",
+      "b": "boxify",
+      "c": "do the styling",
+      "d": "Do justify content"
+    },
+    {
+      "id": 40,
+      "Question": "_____ is the major difference between Notepad and Visual Studio Code",
+      "answer": "VSCode allows you use intelliscence while Notepad does not",
+      "a": "Visual Studio Code is for cuilding websites while notepad is used for webApp",
+      "b": "Notepad is used for CSS while VSCode is used for HTML ",
+      "c": "Notepad allows you use intelliscence while VSCode does not",
+      "d": "VSCode allows you use intelliscence while Notepad does not"
+    },
+    {
+      "id": 41,
+      "Question": "Which of the following statement(s) is/are correct?",
+      "answer": "CSS is only used for styling",
+      "a": "HTML is only used for building Websites",
+      "b": "CSS is only used for styling",
+      "c": "Microsoft Excel is a text editor ",
+      "d": "HTML is used for styling"
+    },
+    {
+      "id": 42,
+      "Question": "We create _______ in a folder",
+      "answer": "files",
+      "a": "cells",
+      "b": "components",
+      "c": "files",
+      "d": "tables"
+    },
+    {
+      "id": 43,
+      "Question": "Which is the first component of a website?",
+      "answer": "Header",
+      "a": "Body",
+      "b": "Header",
+      "c": "Footer",
+      "d": "Sider"
+    },
+    {
+      "id": 44,
+      "Question": "HTML tags are usually enclosed in?",
+      "answer": "Angular brackets",
+      "a": "Curly braces",
+      "b": "Square brackets",
+      "c": "parenthesis",
+      "d": "Angular brackets"
+    },
+    {
+      "id": 45,
+      "Question": "all HTML tags are closed",
+      "answer": "False",
+      "a": "True",
+      "b": "False",
+      "c": "Maybe",
+      "d": "Certainly"
+    },
+    {
+      "id": 46,
+      "Question": "In order to style a div in html, we give it a _________",
+      "answer": "class",
+      "a": "class",
+      "b": "color",
+      "c": "width",
+      "d": "height"
+    },
+    {
+      "id": 47,
+      "Question": "Carpenter is to Hammer and Nail as Developer is to?",
+      "answer": "Laptop and Smart Phone",
+      "a": "Rows and columns",
+      "b": "Text and Images",
+      "c": "Laptop and Smart Phone",
+      "d": "Signs and Symbols"
+    },
+    {
+      "id": 48,
+      "Question": "The title tag is enclosed in what tag?",
+      "answer": "Head tag",
+      "a": "Head tag",
+      "b": "Body tag",
+      "c": "div tag",
+      "d": "None of the above"
+    },
+    {
+      "id": 49,
+      "Question": "Majority of our codes are found in the?",
+      "answer": "Body tag",
+      "a": "Head tag",
+      "b": "Body tag",
+      "c": "div tag",
+      "d": "None of the above"
+    },
+    {
+      "id": 50,
+      "Question": "All these are not html tags except?",
+      "answer": "strong tag",
+      "a": "<i/> tag",
+      "b": "<p/> tag",
+      "c": "strong tag",
+      "d": "<style></style>"
+    },
+    {
+      "id": 51,
+      "Question": " The correct sequence of HTML tags for starting a webpage is -",
+      "answer": "HTML, Head, Title, Body",
+      "a": "Head, Title, HTML, body",
+      "b": "HTML, Body, Title, Head",
+      "c": "HTML, Head, Title, Body",
+      "d": "HTML, Head, Title, Body"
+    },
+    {
+      "id": 52,
+      "Question": " which of the following is not part of the heading tag in html?",
+      "answer": "<br></br>",
+      "a": "<h1></h1>",
+      "b": "<h3></h3>",
+      "c": "<br></br>",
+      "d": "<h4></h4>"
+    },
+    {
+      "id": 53,
+      "Question": "Which of the following tag is used for inserting the largest heading in HTML?",
+      "answer": "<h1></h1>",
+      "a": "<h1></h1>",
+      "b": "<h3></h3>",
+      "c": "<h5></h5>",
+      "d": "<h4></h4>"
+    },
+    {
+      "id": 54,
+      "Question": " Which of the following tag is used to insert a line-break in HTML?",
+      "answer": "<br/>",
+      "a": "<br/>",
+      "b": "<a></a>",
+      "c": "<link/>",
+      "d": "<p></p>"
+    },
+    {
+      "id": 55,
+      "Question": "  Which character is used to represent the closing of a tag in HTML?",
+      "answer": "/",
+      "a": "/",
+      "b": "!",
+      "c": ".",
+      "d": "-"
+    },
+    {
+      "id": 56,
+      "Question": " Which of the following element is responsible for making the text italic in HTML?",
+      "answer": "<i>",
+      "a": "<i>",
+      "b": "<italic>",
+      "c": "<it>",
+      "d": "<pre>"
+    },
+    {
+      "id": 57,
+      "Question": " How to insert an image in HTML?",
+      "answer": "<img src = ./jtp.png/>",
+      "a": "<img href = jtp.png/>",
+      "b": "<img link = jtp.png/>",
+      "c": "<img url = jtp.png/>",
+      "d": "<img src = ./jtp.png/>"
+    },
+    {
+      "id": 58,
+      "Question": "Which of the following tag is used to make the underlined text?",
+      "answer": "<u>",
+      "a": "<i>",
+      "b": "<ul>",
+      "c": "<u>",
+      "d": "<pre>"
+    },
+    {
+      "id": 59,
+      "Question": "HTML tags are enclosed in-?",
+      "answer": "< and >",
+      "a": "# and #",
+      "b": "{ and }",
+      "c": "! and ?",
+      "d": "< and >"
+    },
+    {
+      "id": 60,
+      "Question": "In how many ways can CSS be written in?",
+      "answer": "3",
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    {
+      "id": 61,
+      "Question": "<h1 style=color:blue;>A Blue Heading</h1>, what type of css is this",
+      "answer": "inline",
+      "a": "outside",
+      "b": "inline",
+      "c": "external",
+      "d": "internal"
+    },
+    {
+      "id": 62,
+      "Question": "How can we select an element with a specific ID in CSS using ___?",
+      "answer": "#",
+      "a": "#",
+      "b": ".",
+      "c": "^",
+      "d": "none"
+    },
+    {
+      "id": 63,
+      "Question": "How can we select an element with a specific class in CSS using ___?",
+      "answer": ".",
+      "a": "#",
+      "b": ".",
+      "c": "^",
+      "d": "none"
+    },
+    {
+      "id": 64,
+      "Question": "To create a perfect circle, what type of css property we need?",
+      "answer": "border-radius:50%;",
+      "a": "border-radius:50%;",
+      "b": "margin:50%;",
+      "c": "padding:50%;",
+      "d": "padding-top:50%;"
+    },
+    {
+      "id": 65,
+      "Question": "What is the correct syntax for linking an external CSS in a  HTML file?",
+      "answer": "<link href=./style.css/>",
+      "a": "<link href=./style.css/>",
+      "b": "<link src=./style.css/>",
+      "c": "<link url=./style.css/>",
+      "d": "<link rel=./style.css/>"
+    },
+    {
+      "id": 66,
+      "Question": "What the use of the placeholder in an input tag",
+      "answer": "used to write a short description in an input tag",
+      "a": "used to write a short description in an input tag",
+      "b": "used for styling an input tag",
+      "c": "used to place a placeholder",
+      "d": "none of the above"
+    },
+    {
+      "id": 67,
+      "Question": "before using any of the flex properties, what must be called",
+      "answer": "display:flex;",
+      "a": "display:flex;",
+      "b": "margin",
+      "c": "padding",
+      "d": "dstyle"
+    },
+    {
+      "id": 68,
+      "Question": "Which of the following are parts of the CSS box model?",
+      "answer": "ll of the above",
+      "a": "padding",
+      "b": "margin",
+      "c": "border",
+      "d": "all of the above"
+    },
+    {
+      "id": 69,
+      "Question": "Which of the following properties is used to align text in CSS?",
+      "answer": "text-align",
+      "a": "text-alignment",
+      "b": "text-position",
+      "c": "text-align",
+      "d": "text"
+    },
+    {
+      "id": 70,
+      "Question": "Which of the following are units of relative length in CSS?",
+      "answer": "ll of the above",
+      "a": "%",
+      "b": "vh",
+      "c": "px",
+      "d": "all of the above"
+    }
+  ]
+
+}

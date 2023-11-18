@@ -1,0 +1,229 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "question": "What is the CSS property for changing the size of an element?",
+            "answer": "width",
+            "a": "size",
+            "b": "weight",
+            "c": "width",
+            "d": "wide"
+          },
+          {
+            "id": 2,
+            "question": "What is the CSS property for containing the exceedings of elements in a container?",
+            "answer": "flex-wrap",
+            "a": "flex",
+            "b": "flex-direction",
+            "c": "contain",
+            "d": "flex-wrap"
+          },
+          {
+            "id": 3,
+            "question": "What is the closing tag for the HTML structure?",
+            "answer": "</html>",
+            "a": "<html/>",
+            "b": "<html>",
+            "c": "</html>",
+            "d": "</Html>"
+          },
+          {
+            "id": 4,
+            "question": "What is the CSS property for curving the sharp edges of an element?",
+            "answer": "border-radius",
+            "a": "border-line",
+            "b": "curver",
+            "c": "border-arc",
+            "d": "border-radius"
+          },
+          {
+            "id": 5,
+            "question": "What is the difference between inline CSS, embedded CSS, and external CSS?",
+            "answer": "Inline CSS is placed inside the HTML document, embedded CSS is placed outside the `<head>` tag, and external CSS is placed in a separate file.",
+            "a": "Inline CSS is placed outside the HTML document, embedded CSS is placed inside the `<head>` tag,and external CSS is placed in a separate file.",
+            "b": "Inline CSS is placed inside the HTML document, embedded CSS is placed inside the `<head>` tag,and external CSS is placed in a separate file.",
+            "c": "Inline CSS is placed inside the HTML document, embedded CSS is placed outside the `<head>` tag, and external CSS is placed in a separate file.",
+            "d": "Inline CSS is placed inside the HTML document, embedded CSS is placed inside the `<head>` tag,and external CSS is placed in the same file."
+          },
+          {
+            "id": 6,
+            "question": "Which of the following tag is used to embed css in html page?",
+            "answer": "<style></style>",
+            "a": "<css>",
+            "b": "<!DOCTYPE html>",
+            "c": "<script></script>",
+            "d": "<style></style>"
+          },
+          {
+            "id": 7,
+            "question": " Which of the following CSS selectors are used to specify a group of elements?",
+            "answer": "class",
+            "a": "tag",
+            "b": "id",
+            "c": "class",
+            "d": "id and class"
+          },
+          {
+            "id": 8,
+            "question": " Which of the following has introduced text, list, box, margin, border, color, and background properties?",
+            "answer": "CSS",
+            "a": "HTML",
+            "b": "PHP",
+            "c": "CSS",
+            "d": "JAVASCRIPT"
+          },
+          {
+            "id": 9,
+            "question": " Which of these is not a programming languages?",
+            "answer": "CSS",
+            "a": "JAVA",
+            "b": "PHP",
+            "c": "CSS",
+            "d": "JAVASCRIPT"
+          },
+          {
+            "id": 10,
+            "question": " Which of the following is the correct syntax to link an external style sheet in the HTML file?",
+            "answer": " <link rel=”stylesheet” href=”style.css” />",
+            "a": " <link rel=”stylesheet” href=”style.css” />",
+            "b": "<link rel=”stylesheet” src=”style.css” />",
+            "c": "<style rel=”stylesheet” src=”style.css” />",
+            "d": " <style rel=”stylesheet” link=”style.css” />"
+          },
+          {
+            "id": 11,
+            "question": " which of these is a type of styling",
+            "answer": " all of the above",
+            "a": "inline styling",
+            "b": "embedded styling",
+            "c": "external styling",
+            "d": " all of the above"
+          },
+          {
+            "id": 12,
+            "question": " which of css properties is used to change the text color ",
+            "answer": " color",
+            "a": "font-size",
+            "b": "color",
+            "c": "background-color",
+            "d": " all of the above"
+          },
+          {
+            "id": 13,
+            "question": " which of css properties is used to change the text colour ",
+            "answer": " color",
+            "a": "font-size",
+            "b": "color",
+            "c": "background-color",
+            "d": " all of the above"
+          },
+          {
+            "id": 14,
+            "question": "In building a website, we must first?",
+            "answer": "boxify",
+            "a": "call display flex",
+            "b": "boxify",
+            "c": "do the styling",
+            "d": "Do justify content"
+          },
+          {
+            "id": 15,
+            "Question": "_____ is the major difference between Notepad and Visual Studio Code",
+            "answer": "VSCode allows you use intelliscence while Notepad does not",
+            "a": "Visual Studio Code is for cuilding websites while notepad is used for webApp",
+            "b": "Notepad is used for CSS while VSCode is used for HTML ",
+            "c": "Notepad allows you use intelliscence while VSCode does not",
+            "d": "VSCode allows you use intelliscence while Notepad does not"
+          },
+          {
+            "id": 16,
+            "Question": "Which of the following statement(s) is/are correct?",
+            "answer": "CSS is only used for styling",
+            "a": "HTML is only used for building Websites",
+            "b": "CSS is only used for styling",
+            "c": "Microsoft Excel is a text editor ",
+            "d": "HTML is used for styling"
+          },
+          {
+            "id": 17,
+            "Question": "We create _______ in a folder",
+            "answer": "files",
+            "a": "cells",
+            "b": "components",
+            "c": "files",
+            "d": "tables"
+          },
+          {
+            "id": 18,
+            "Question": "Which is the first component of a website?",
+            "answer": "Header",
+            "a": "Body",
+            "b": "Header",
+            "c": "Footer",
+            "d": "Sider"
+          },
+          {
+            "id": 19,
+            "Question": "HTML tags are usually enclosed in?",
+            "answer": "Angular brackets",
+            "a": "Curly braces",
+            "b": "Square brackets",
+            "c": "parenthesis",
+            "d": "Angular brackets"
+          },
+          {
+            "id": 20,
+            "Question": "all HTML tags are closed",
+            "answer": "False",
+            "a": "True",
+            "b": "False",
+            "c": "Maybe",
+            "d": "Certainly"
+          },
+          {
+            "id": 21,
+            "Question": "In order to style a div in html, we give it a _________",
+            "answer": "class",
+            "a": "class",
+            "b": "color",
+            "c": "width",
+            "d": "height"
+          },
+          {
+            "id": 22,
+            "Question": "Carpenter is to Hammer and Nail as Developer is to?",
+            "answer": "Laptop and Smart Phone",
+            "a": "Rows and columns",
+            "b": "Text and Images",
+            "c": "Laptop and Smart Phone",
+            "d": "Signs and Symbols"
+          },
+          {
+            "id": 23,
+            "Question": "The title tag is enclosed in what tag?",
+            "answer": "Head tag",
+            "a": "Head tag",
+            "b": "Body tag",
+            "c": "div tag",
+            "d": "None of the above"
+          },
+          {
+            "id": 24,
+            "Question": "Majority of our codes are found in the?",
+            "answer": "Body tag",
+            "a": "Head tag",
+            "b": "Body tag",
+            "c": "div tag",
+            "d": "None of the above"
+          },
+          {
+            "id": 25,
+            "Question": "All these are not html tags except?",
+            "answer": "strong tag",
+            "a": "<i/> tag",
+            "b": "<p/> tag",
+            "c": "strong tag",
+            "d": "<style></style>"
+          }
+    ]
+}
