@@ -224,6 +224,15 @@
             "b": "Elon Musk",
             "c": "Bill Gates",
             "d": "Mark Umeh"
+          },
+          {
+            "id": 26,
+            "Question": "All these are not html tags except?",
+            "answer": "strong tag",
+            "a": "<i/> tag",
+            "b": "<p/> tag",
+            "c": "strong tag",
+            "d": "<style></style>"
           }
     ]
 }
