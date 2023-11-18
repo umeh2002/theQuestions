@@ -305,6 +305,8 @@ const LandingPage = () => {
   const allow = useRecoilValue(holdValue);
   const [question, setQuestion] = useState<any>({});
 
+  console.log(question?.question);
+
   React.useEffect(() => {
     console.log("data", fn(allow));
   }, []);
@@ -338,7 +340,7 @@ const LandingPage = () => {
             >
               <CountdownCircleTimer
                 isPlaying
-                duration={60}
+                duration={30}
                 colors={["#004777", "#F7B801", "#A30000", "#A30000"]}
                 colorsTime={[7, 5, 2, 0]}
               >
@@ -387,7 +389,10 @@ const LandingPage = () => {
             </div>
             <br />
             <Holder>
-              <Card>{question?.question}</Card>
+              {/* {console.log(question?.question)} */}
+              <Card>{question?.Question ? question?.Question   : question?.question }</Card>
+              
+              
               <Circle />
               <CircleII />
               <CircleIII />
@@ -697,6 +702,8 @@ const Butt = styled.div<{ bg: string }>`
   margin: 20px;
   background-color: ${({ bg }) => (bg ? "#0D1723" : "#34A853")};
   padding: 20px 28px;
+  width: 200px;
+  text-align: center;
 `;
 
 const But = styled.div`

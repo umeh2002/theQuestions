@@ -141,7 +141,7 @@ const Button = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #f5d400;
+  background-color: #4C8FDF;
   border-radius: 5px;
   font-size: 20px;
   font-weight: 500;
